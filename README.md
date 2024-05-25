@@ -6,6 +6,6 @@ to run this project first install the dependencies by running the following comm
 
 ```
 pip install -r requirements.txt
-    ```
+```
 
  
