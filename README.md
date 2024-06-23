@@ -1,25 +1,33 @@
-### Clustring project
+## Clustring project
 
-#### Overview
+### Overview
 This project used all techninques of clustring in scikit learn library with example of data, we used the latest version of scikit learn.
 
-#### Notebooks
+### Notebooks
+---
 The Notebook folder contains the clustring algorithms that used in this project:
 
-- [X] K-means
-- [X] Hierarchical-Clustering(Agglomerative)
-- [X] DBscan
-- [X] Mean-shift
+* [X] K-means
+* [X] Hierarchical-Clustering(Agglomerative)
+* [X] DBscan
+* [X] Mean-shift
 
-#### Dependencies
+---
+Each clustring algorithm was Evaluated with the following metrics:
+
+* [X] Silhouette Score
+* [X] Calinski-Harabasz Score
+* [X] Davies-Bouldin Score
+---
+### Dependencies
 
 - python >=3.9
 
-#### run the project
+### run the project
 To run this project first install the dependencies by running the following command:
 
-```
-pip install -r requirements.txt
+```console
+$ pip install -r requirements.txt
 ```
 
  
