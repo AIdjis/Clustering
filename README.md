@@ -12,6 +12,7 @@ The Notebook folder contains the clustring algorithms that used in this project:
 * [X] DBscan
 * [X] Mean-shift
 * [X] Optics
+* [X] Spectral-clustering
 
 ---
 Each clustring algorithm was Evaluated with the following metrics:
