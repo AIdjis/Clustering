@@ -16,6 +16,7 @@ The Notebook folder contains the clustring algorithms that used in this project:
 * [X] Optics
 * [X] Spectral-clustering
 * [X] Spectral-biclustering
+* [X] Affinity-Propagation
 
 ---
 Each clustring algorithm was Evaluated with the following metrics:
