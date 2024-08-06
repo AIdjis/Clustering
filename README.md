@@ -18,6 +18,7 @@ The Notebook folder contains the clustring algorithms that used in this project:
 * [X] Spectral-biclustering
 * [X] Affinity-Propagation
 * [X] HDBSCAN
+* [X] Brich
 
 ---
 Each clustring algorithm was Evaluated with the following metrics:
