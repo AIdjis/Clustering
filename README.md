@@ -20,6 +20,7 @@ The Notebook folder contains the clustring algorithms that used in this project:
 * [X] HDBSCAN
 * [X] Brich
 * [X] Gaussian-mixture
+* [X] Bayesian-Gaussian-Mixture
 
 ---
 Each clustring algorithm was Evaluated with the following metrics:
