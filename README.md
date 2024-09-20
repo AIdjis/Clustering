@@ -1,11 +1,11 @@
 ## Clustring project
 
 ### Overview
-This project used all techninques of clustring in scikit learn library with example of data, we used the latest version of scikit learn.
+This project explores a variety of clustering techniques using the latest version of the `scikit-learn` library. Each algorithm is demonstrated with example datasets, providing practical insights into how clustering can be applied across different scenarios.
 
 ### Notebooks
 ---
-The Notebook folder contains the clustring algorithms that used in this project:
+The `Notebooks` folder contains implementations of the following clustering algorithms:
 
 * [X] K-means
 * [X] MiniBatch-K-means
@@ -23,7 +23,7 @@ The Notebook folder contains the clustring algorithms that used in this project:
 * [X] Bayesian-Gaussian-Mixture
 
 ---
-Each clustring algorithm was Evaluated with the following metrics:
+Each clustering algorithm is evaluated using the following metrics to assess its performance:
 
 * [X] Silhouette Score
 * [X] Calinski-Harabasz Score
