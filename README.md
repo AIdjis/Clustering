@@ -22,7 +22,6 @@ The `Notebooks` folder contains implementations of the following clustering algo
 * [X] Brich
 * [X] Gaussian-mixture
 * [X] Bayesian-Gaussian-Mixture
-
 ---
 ### Evaluation Metrics
 ---
