@@ -23,6 +23,7 @@ The `Notebooks` folder contains implementations of the following clustering algo
 * [X] Bayesian-Gaussian-Mixture
 
 ---
+### Evaluation Metrics
 Each clustering algorithm is evaluated using the following metrics to assess its performance:
 
 * [X] Silhouette Score
