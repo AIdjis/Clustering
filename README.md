@@ -1,8 +1,9 @@
 ## Clustring project
 
 ### Overview
+---
 This project explores a variety of clustering techniques using the latest version of the `scikit-learn` library. Each algorithm is demonstrated with example datasets, providing practical insights into how clustering can be applied across different scenarios.
-
+---
 ### Notebooks
 ---
 The `Notebooks` folder contains implementations of the following clustering algorithms:
@@ -24,6 +25,7 @@ The `Notebooks` folder contains implementations of the following clustering algo
 
 ---
 ### Evaluation Metrics
+---
 Each clustering algorithm is evaluated using the following metrics to assess its performance:
 
 * [X] Silhouette Score
@@ -31,11 +33,10 @@ Each clustering algorithm is evaluated using the following metrics to assess its
 * [X] Davies-Bouldin Score
 ---
 ### Dependencies
-
+---
 - python >=3.9
 
-### run the project
-To run this project first install the dependencies by running the following command:
+- To run this project first install the dependencies by running the following command:
 
 ```console
 $ pip install -r requirements.txt
